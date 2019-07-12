@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket57.png</string>
+					<string>http://img.rhxsf.top/shenhua57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket512.png</string>
+					<string>http://img.rhxsf.top/shenhua512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.TimeTech.Farm</string>
 				<key>bundle-version</key>
-				<string>1.4</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
