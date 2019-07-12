@@ -1,0 +1,10 @@
+{  
+    "data":{
+    
+            "name"    : "神话",
+            "bundle-version" : 1.8,
+            "build-version" : 1,
+            "updateContent" : "修复已知BUG",
+            "download-url"  : "https://raw.githubusercontent.com/shenghua001a/shenhua/master/manifest.plist"
+    }
+}
