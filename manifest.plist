@@ -29,11 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.TimeTech.Farm</string>
+				<string>www.cw.pub</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
 				<key>title</key>
 				<string>神话</string>
 			</dict>
