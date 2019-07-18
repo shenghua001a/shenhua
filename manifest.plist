@@ -28,15 +28,16 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-			    <key>BuildMachineOSBuild</key>
+			    <key>bundle-identifier</key>
 			    <string>18E226</string>
-			    <key>CFBundleDevelopmentRegion</key>
-			    <string>zh_CN</string>
-			    <key>CFBundleDisplayName</key>
+			    <key>bundle-version</key>
+			    <string>1.0</string>
+			    <key>kind</key>
+			    <string>software</string>
+			    <key>subtitle</key>
+			    <string>App Subtitle</string>
+			    <key>title</key>
 			    <string>神话</string>
-			    <key>CFBundleExecutable</key>
-			    <string>UZApp</string>
-			    <key>CFBundleIcons</key>
 			</dict>
 		</dict>
 	</array>
